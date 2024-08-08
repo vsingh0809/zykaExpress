@@ -1,7 +1,0 @@
-package com.zaykaExpress.repository;
-
-import org.springframework.data.jpa.repository.JpaRepository;
-
-public class MenuItemRepository implements JpaRepository<T, ID> {
-
-}

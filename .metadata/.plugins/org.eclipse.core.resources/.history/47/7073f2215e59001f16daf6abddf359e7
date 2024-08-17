@@ -1,0 +1,14 @@
+package coding.strings;
+
+public class removeSpacialCharacter {
+
+	public static void main(String[] args) {
+		
+		String s1="2233@@#$njbjh**^&#";
+		String s=s1.replaceAll("[^a-zA-Z0-9]", "");
+		System.out.println(s);
+		
+
+	}
+
+}

@@ -1,0 +1,5 @@
+package com.zykaExpress.model;
+
+public enum PaymentStatus {
+	PENDING,COMPLETED,REFUNDED
+}

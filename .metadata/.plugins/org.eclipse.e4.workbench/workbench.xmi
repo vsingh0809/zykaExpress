@@ -10,6 +10,7 @@
     <persistedState key="aggregateWorkingSetId" value="Aggregate for window 1723109177033"/>
     <persistedState key="show_in_time" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;show_in_time/>"/>
     <tags>topLevel</tags>
+    <tags>shellMinimized</tags>
     <children xsi:type="basic:PartSashContainer" xmi:id="_PmmiolugEe-uBddccTxbvg" selectedElement="_Pmmio1ugEe-uBddccTxbvg" horizontal="true">
       <children xsi:type="advanced:PerspectiveStack" xmi:id="_Pmmio1ugEe-uBddccTxbvg" elementId="org.eclipse.ui.ide.perspectivestack" containerData="7500" selectedElement="_PmmipFugEe-uBddccTxbvg">
         <children xsi:type="advanced:Perspective" xmi:id="_PmmipFugEe-uBddccTxbvg" elementId="com.springsource.sts.ide.perspective" selectedElement="_PmmipVugEe-uBddccTxbvg" label="Spring" iconURI="platform:/plugin/org.springframework.ide.eclipse.ui/icons/full/obj16/spring_perspective.gif">
@@ -123,8 +124,8 @@
             </children>
             <children xsi:type="basic:PartSashContainer" xmi:id="_Pmmir1ugEe-uBddccTxbvg" containerData="7306" selectedElement="_PmmisFugEe-uBddccTxbvg" horizontal="true">
               <children xsi:type="basic:PartSashContainer" xmi:id="_PmmisFugEe-uBddccTxbvg" containerData="9000" selectedElement="_PmmisVugEe-uBddccTxbvg">
-                <children xsi:type="advanced:Placeholder" xmi:id="_PmmisVugEe-uBddccTxbvg" elementId="org.eclipse.ui.editorss" containerData="8825" ref="_PmvtwVugEe-uBddccTxbvg"/>
-                <children xsi:type="basic:PartStack" xmi:id="_PmmislugEe-uBddccTxbvg" elementId="bottom" containerData="1175" selectedElement="_Pmmis1ugEe-uBddccTxbvg">
+                <children xsi:type="advanced:Placeholder" xmi:id="_PmmisVugEe-uBddccTxbvg" elementId="org.eclipse.ui.editorss" containerData="5687" ref="_PmvtwVugEe-uBddccTxbvg"/>
+                <children xsi:type="basic:PartStack" xmi:id="_PmmislugEe-uBddccTxbvg" elementId="bottom" containerData="4313" selectedElement="_Pmmis1ugEe-uBddccTxbvg">
                   <children xsi:type="advanced:Placeholder" xmi:id="_Pmmis1ugEe-uBddccTxbvg" elementId="org.eclipse.ui.console.ConsoleView" ref="_PnpEc1ugEe-uBddccTxbvg" closeable="true">
                     <tags>View</tags>
                     <tags>categoryTag:General</tags>
@@ -241,6 +242,7 @@
         <tags>org.eclipse.e4.primaryDataStack</tags>
         <tags>EditorStack</tags>
         <tags>active</tags>
+        <tags>noFocus</tags>
         <children xsi:type="basic:Part" xmi:id="_Pmvtw1ugEe-uBddccTxbvg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="SecurityConfig.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
           <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SecurityConfig.java&quot; partName=&quot;SecurityConfig.java&quot; title=&quot;SecurityConfig.java&quot; tooltip=&quot;ZykaExpress_backend/src/main/java/com/zykaExpress/SecurityConfig.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/ZykaExpress_backend/src/main/java/com/zykaExpress/SecurityConfig.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1179&quot; selectionTopPixel=&quot;126&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
@@ -428,7 +430,7 @@
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
         </children>
         <children xsi:type="basic:Part" xmi:id="_Pmw6u1ugEe-uBddccTxbvg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="JwtAuthenticationFilter.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;JwtAuthenticationFilter.java&quot; partName=&quot;JwtAuthenticationFilter.java&quot; title=&quot;JwtAuthenticationFilter.java&quot; tooltip=&quot;ZykaExpress_backend/src/main/java/com/zykaExpress/security/JwtAuthenticationFilter.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/ZykaExpress_backend/src/main/java/com/zykaExpress/security/JwtAuthenticationFilter.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;44&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;3714&quot; selectionTopPixel=&quot;943&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;JwtAuthenticationFilter.java&quot; partName=&quot;JwtAuthenticationFilter.java&quot; title=&quot;JwtAuthenticationFilter.java&quot; tooltip=&quot;ZykaExpress_backend/src/main/java/com/zykaExpress/security/JwtAuthenticationFilter.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/ZykaExpress_backend/src/main/java/com/zykaExpress/security/JwtAuthenticationFilter.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;44&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;3699&quot; selectionTopPixel=&quot;1100&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>removeOnHide</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
@@ -630,7 +632,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_PnukDlugEe-uBddccTxbvg" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_CGx1kFuiEe-K2qnfaDWm5A" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_Pn1-9FugEe-uBddccTxbvg"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_Z2k8QF3SEe-lGsiZ1Jw3uw" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_Pn1-9FugEe-uBddccTxbvg"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_PnukG1ugEe-uBddccTxbvg" elementId="group.edit" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -664,7 +666,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_PnvLR1ugEe-uBddccTxbvg" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_CG6_iFuiEe-K2qnfaDWm5A" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_Pn1-pVugEe-uBddccTxbvg"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_Z2pNsF3SEe-lGsiZ1Jw3uw" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_Pn1-pVugEe-uBddccTxbvg"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_PnvLU1ugEe-uBddccTxbvg" elementId="org.eclipse.jdt.ui.ClassFileEditor" visible="false">
         <tags>Draggable</tags>

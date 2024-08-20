@@ -5342,3 +5342,12 @@ org.eclipse.core.runtime.CoreException: Launch configuration ASTFrame references
 2024-08-16 10:04:35,785 [Worker-70: Launching ZykaExpress_backend - Application] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaibh\Desktop\FinalProject\ZykaExpress_backend\src\test\resources
 2024-08-16 12:13:53,181 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
 2024-08-16 13:06:55,551 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-08-18 08:43:41,459 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-08-18 09:00:01,604 [Worker-17: Launching ZykaExpress_backend - Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 09:00:01,616 [Worker-17: Launching ZykaExpress_backend - Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-18 09:00:01,629 [Worker-17: Launching ZykaExpress_backend - Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-08-18 09:00:01,676 [Worker-17: Launching ZykaExpress_backend - Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 28 resources
+2024-08-18 09:00:02,070 [Worker-17: Launching ZykaExpress_backend - Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-18 09:00:02,070 [Worker-17: Launching ZykaExpress_backend - Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-08-18 09:00:02,070 [Worker-17: Launching ZykaExpress_backend - Application] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vaibh\Desktop\FinalProject\ZykaExpress_backend\src\test\resources
+2024-08-19 07:56:55,069 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.

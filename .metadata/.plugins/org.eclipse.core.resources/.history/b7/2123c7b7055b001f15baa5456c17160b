@@ -1,5 +1,0 @@
-package com.zykaExpress.model;
-
-public enum Type {
-	VEG,NONVEG
-}

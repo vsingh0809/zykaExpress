@@ -1,5 +1,5 @@
 const config = {
-  serverURL: "http://localhost:8080/CloudCuisine"
+  serverURL: "http://localhost:8080/ZykaExpress"
 };
 
 export default config;

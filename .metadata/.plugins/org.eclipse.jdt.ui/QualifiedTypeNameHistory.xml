@@ -52,7 +52,6 @@
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.lang.StringBuffer"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
-    <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="ch.qos.logback.core.status.Status"/>
     <fullyQualifiedTypeName name="com.zykaExpress.entities.Status"/>
@@ -60,4 +59,5 @@
     <fullyQualifiedTypeName name="com.zykaExpress.entities.Category"/>
     <fullyQualifiedTypeName name="com.zykaExpress.entities.User"/>
     <fullyQualifiedTypeName name="com.zykaExpress.entities.Address"/>
+    <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
 </qualifiedTypeNameHistroy>

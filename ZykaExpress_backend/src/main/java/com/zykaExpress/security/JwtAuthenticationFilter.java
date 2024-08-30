@@ -103,7 +103,7 @@ public class JwtAuthenticationFilter extends OncePerRequestFilter {
     }
     @Override
     protected boolean shouldNotFilter(HttpServletRequest request) throws ServletException {
-        return request.getRequestURI().equals("/CloudCuisine/auth/login"); // Skip the filter for "/login" API
+        return request.getRequestURI().equals("/zykaExpress/auth/login"); // Skip the filter for "/login" API
     }
     
     
